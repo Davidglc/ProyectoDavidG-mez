@@ -29,4 +29,9 @@ public class DavidGómezBaloncesto{
 	public String setnombreHobby(String nombreHobby) {
 		return this.nombreHobby=nombreHobby;
 	}
+	public static void nombreHobby(String nombreHobby) {
+		for (int i = 0; i<1000; i++) {
+			System.out.println("Baloncesto");
+		}
+	}
 }
