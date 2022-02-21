@@ -19,4 +19,8 @@ public class DavidGómezBaloncesto{
 	public int getdorsal() {
 		return dorsal;
 	}
+	public int setdorsal(int dorsal) {
+		return this.dorsal=dorsal;
+		
+	}
 }
