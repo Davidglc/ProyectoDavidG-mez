@@ -13,4 +13,7 @@ public class DavidGómezBaloncesto{
 	public String gettitulo() {
 		return titulo;
 	}
+	public String settitulo(String titulo) {
+		return this.titulo=titulo;
+	}
 }
