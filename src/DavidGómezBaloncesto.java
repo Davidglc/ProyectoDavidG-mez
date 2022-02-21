@@ -21,6 +21,9 @@ public class DavidGómezBaloncesto{
 	}
 	public int setdorsal(int dorsal) {
 		return this.dorsal=dorsal;
+	}
+	public String getnombreHobby() {
+		return nombreHobby;
 		
 	}
 }
