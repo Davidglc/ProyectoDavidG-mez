@@ -26,4 +26,7 @@ public class DavidGómezBaloncesto{
 		return nombreHobby;
 		
 	}
+	public String setnombreHobby(String nombreHobby) {
+		return this.nombreHobby=nombreHobby;
+	}
 }
